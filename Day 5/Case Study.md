@@ -1,7 +1,9 @@
 ## Case study 
 
 A marketplace platform sees revenue up 25%, but profitability down.  
-Take rate and traffic are flat, costs are higher.What’s the first hypothesis you’d test and which 2–3 unit‑level metrics would you check?
+Take rate and traffic are flat, costs are higher.
+
+What’s the first hypothesis you’d test and which 2–3 unit‑level metrics would you check?
 
 ---
 
